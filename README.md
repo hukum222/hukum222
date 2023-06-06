@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hukum Singh</h1>
+
 <h3 align="center">A passionate Java developer from India</h3>
+
+ <p><img align="center" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Java developer" /></p>
 
 - 🔭 I’m currently working on **Java,SQL,HTML and CSS,SPRING BOOT**
 
